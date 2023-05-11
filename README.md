@@ -1,2 +1,2 @@
-# gbi6py2
+# gbi6py1
 Módulo de Python en vía informática 
